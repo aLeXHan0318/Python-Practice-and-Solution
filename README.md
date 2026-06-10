@@ -1,2 +1,2 @@
-# Practice-Python-
-Python pratice 
+# Practice-Python
+
